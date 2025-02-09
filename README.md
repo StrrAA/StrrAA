@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @StrrAA - Michal Andy Stračovský
-- 📍  I am from the very heart of Europe: Prague, the Czech Republic.
-- 👀 I’m interested in Coding, Fitness, Breakdancing, Money, Investing, Music, Mediterrian stuff.
-- 🌱 I’m currently learning React/Next/Redux/SQL, basicaly everything I can all the time.
-- 💞️ I’m looking for Job actually and making it a carreer.
+- 📍 I am from the very heart of Europe: Prague, the Czech Republic.
+- 👀 I’m interested in Coding, Fitness, Breakdancing, Money, Investing, Music, Asian stuff.
+- 🌱 I’m currently exploring NextJS 15, my expertise lies in Frontend, VUEjs, SCSS, etc, and I'm learning basicaly everything I can all the time.
+- 💞️ I’m looking for a Job again actually and I thrive in Remote Teams settings.
 - 📫 You can hit me up at stracovskymichal@gmail.com
 
 <!---
