@@ -1,3 +1,4 @@
+Full-Stack / Front-End Web Developer
 - 👋 Hi, I’m @StrrAA - Michal Andy Stračovský
 - 📍 I am from the very heart of Europe: Prague, the Czech Republic.
 - 👀 I’m interested in Coding, Fitness, Breakdancing, Money, Investing, Music, Asian stuff.
